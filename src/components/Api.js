@@ -1,5 +1,5 @@
 const API_KEY = "RceXNNQrrmcHJmkRllSgpfFP2oqIQ3YH";
-const API_HOST = 'http://dataservice.accuweather.com/';
+const API_HOST = 'https://dataservice.accuweather.com/';
 const API_VERSION = 'v1';
 
 
